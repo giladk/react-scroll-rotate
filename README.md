@@ -1,7 +1,7 @@
 # react-scroll-rotate ([demo](https://giladk.github.io/react-scroll-rotate/))
 Very simple react component for rotate element based on scroll position
 
-[![NPM](https://img.shields.io/npm/v/react-dynamic-charts.svg)](https://www.npmjs.com/package/react-scroll-rotate)
+[![NPM](https://img.shields.io/npm/v/react-scroll-rotate.svg)](https://www.npmjs.com/package/react-scroll-rotate)
 
 ## Install
 
