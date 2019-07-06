@@ -17,6 +17,7 @@ export function ScrollRotate(props) {
     let getStartValues = () => {
       if (props.target){
         // document.getElementById(props.target)
+        // TODO
       }else {
         const clientHeight = window.innerHeight;
         const scrollTop = window.scrollY;

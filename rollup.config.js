@@ -16,16 +16,7 @@ module.exports = {
             sourcemap: true
         },
     ],
-    // plugins: [
-    //     resolve(),
-    //     commonJS({
-    //       include: 'node_modules/**'
-    //     })
-    // ]
     plugins: [
-        // replace({
-        //   "process.env.NODE_ENV": JSON.stringify(NODE_ENV)
-        // }),
         babel({
           exclude: "node_modules/**",
           "presets": [

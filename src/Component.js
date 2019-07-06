@@ -24,7 +24,7 @@ export class ScrollRotate extends React.Component {
       const { target } = this.props;
       if (target){
         // document.getElementById(props.target)
-        // TODO: add set
+        // TODO
       }else {
         const clientHeight = window.innerHeight;
         const scrollTop = window.scrollY;
