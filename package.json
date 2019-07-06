@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-rotate",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Very simple react component for rotate element based on scroll position",
   "main": "dist/bundle.js",
   "module": "dist/es.module.js",
@@ -11,6 +11,10 @@
     "build": "rollup -c",
     "build-pages": "next build",
     "export-pages": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giladk/react-scroll-rotate"
   },
   "keywords": [],
   "author": "",
