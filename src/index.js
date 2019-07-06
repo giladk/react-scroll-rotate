@@ -1,0 +1,1 @@
+export { ScrollRotate } from './Component';

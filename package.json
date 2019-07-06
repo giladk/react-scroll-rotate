@@ -1,0 +1,38 @@
+{
+  "name": "react-scroll-rotate",
+  "version": "0.0.4",
+  "description": "Very simple react component for rotate element based on scroll position",
+  "main": "dist/bundle.js",
+  "module": "dist/es.module.js",
+  "jsnext:main": "dist/es.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next",
+    "build": "rollup -c",
+    "build-pages": "next build",
+    "export-pages": "next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "lodash": "^4.17.11",
+    "next": "^8.1.0",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.1",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.0",
+    "styled-components": "^4.3.2"
+  }
+}
