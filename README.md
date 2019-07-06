@@ -36,4 +36,4 @@ function MyTitleComp(props) {
 
 ## License
 
-MIT ©
+MIT
