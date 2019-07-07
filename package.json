@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-rotate",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Very simple react component for rotate element based on scroll position",
   "main": "dist/bundle.js",
   "module": "dist/es.module.js",
